@@ -15,9 +15,6 @@ right now:
 * experimenting with movement and visual feedback
 * learning python and figuring things out slowly
 
-[Gmail](saurav02jha@gmail.com)
-[LinkedIn](www.linkedin.com/in/saurav-jha-06a599352)
-[Portfolio](https://www.behance.net/gallery/243319815/Game-Art-Portfolio-Visual-Worlds-Characters)
 some of my work leans quiet, minimal, and slightly off
 i don’t always know why but i follow it anyway
 
@@ -25,3 +22,7 @@ this isn’t a finished portfolio
 it’s a record of what i’m trying, what works, and what doesn’t
 
 📌 open to opportunities in game art, design, and related roles
+
+[Gmail](saurav02jha@gmail.com)
+[LinkedIn](www.linkedin.com/in/saurav-jha-06a599352)
+[Portfolio](https://www.behance.net/gallery/243319815/Game-Art-Portfolio-Visual-Worlds-Characters)
