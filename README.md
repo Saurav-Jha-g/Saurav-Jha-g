@@ -1,4 +1,4 @@
-## hi , I'm Saurav Jha
+## Hi , I'm Saurav Jha
 
 i make things that try to feel right
 
