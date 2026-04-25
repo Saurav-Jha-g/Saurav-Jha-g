@@ -15,6 +15,9 @@ right now:
 * experimenting with movement and visual feedback
 * learning python and figuring things out slowly
 
+[Gmail](saurav02jha@gmail.com)
+[LinkedIn](www.linkedin.com/in/saurav-jha-06a599352)
+[Portfolio](https://www.behance.net/gallery/243319815/Game-Art-Portfolio-Visual-Worlds-Characters)
 some of my work leans quiet, minimal, and slightly off
 i don’t always know why but i follow it anyway
 
