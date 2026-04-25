@@ -1,6 +1,6 @@
 ## Hi , I'm Saurav Jha
 
-i make things that try to feel right
+I make things that try to feel right
 
 🎨 game artist who works on environment, pixel art, 2D animation
 🏆 unicef game jam 2025 (team)
