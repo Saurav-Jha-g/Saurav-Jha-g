@@ -1,16 +1,24 @@
-## Hi there 👋
+## hi , I'm Saurav Jha
 
-<!--
-**Saurav-Jha-g/Saurav-Jha-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i make things that try to feel right
 
-Here are some ideas to get you started:
+🎨 game artist who works on environment, pixel art, 2D animation
+🏆 unicef game jam 2025 (team)
+🎓 electrical engineering student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i’m not focused on making things look perfect
+i’m more interested in how they feel when you move through them
+
+right now:
+
+* building a small atmospheric game
+* experimenting with movement and visual feedback
+* learning python and figuring things out slowly
+
+some of my work leans quiet, minimal, and slightly off
+i don’t always know why but i follow it anyway
+
+this isn’t a finished portfolio
+it’s a record of what i’m trying, what works, and what doesn’t
+
+📌 open to opportunities in game art, design, and related roles
